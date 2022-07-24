@@ -1,6 +1,7 @@
 function seed(...arguments) {
   return [...arguments];
 }
+seed(a,b,c);
 
 function same([x, y], [j, k]) {}
 
